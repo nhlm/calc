@@ -110,7 +110,7 @@ class Calculator implements CalculatorInterface {
   }
 
   /**
-   * executes a sequence choosen by the instructor parameter, if known, using
+   * executes a sequence chosen by the instructor parameter, if known, using
    * the given inbound value.
    *
    * @param string $instructor
@@ -128,7 +128,7 @@ class Calculator implements CalculatorInterface {
   }
 
   /**
-   * executes a sequence choosen by the symbol parameter, if known, using the
+   * executes a sequence chosen by the symbol parameter, if known, using the
    * given inbound value.
    *
    * @param string $symbol

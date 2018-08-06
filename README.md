@@ -1,6 +1,6 @@
 # CLI Calculator
 
-This project was create as an educational project, therefore there are no
+This project was created as an educational project, therefore there are no
 unittests this time.
 
 The code is licensed under the MIT License, check the License file for more

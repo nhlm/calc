@@ -47,7 +47,7 @@ interface CalculatorInterface {
   public function calculateByStrategy(CalculationStrategyInterface $strategy, InboundValueInterface $inbound): void;
 
   /**
-   * executes a sequence choosen by the instructor parameter, if known, using
+   * executes a sequence chosen by the instructor parameter, if known, using
    * the given inbound value.
    *
    * @param string $instructor
@@ -56,7 +56,7 @@ interface CalculatorInterface {
   public function calculateByInstructor(string $instructor, InboundValueInterface $inbound): void;
 
   /**
-   * executes a sequence choosen by the symbol parameter, if known, using the
+   * executes a sequence chosen by the symbol parameter, if known, using the
    * given inbound value.
    *
    * @param string $symbol
