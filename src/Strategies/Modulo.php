@@ -49,7 +49,7 @@ class Modulo extends AbstractStrategy implements CalculationStrategyInterface {
   }
 
   /**
-   * calculates the next actual value based on the currenct actual value and
+   * calculates the next actual value based on the current actual value and
    * the inbound value.
    *
    * @param Actual $value
